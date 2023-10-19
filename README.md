@@ -1,2 +1,2 @@
 # WarehouseWreckage
-A very simple Wreck-It Game
+A simple Wreck-It Game
