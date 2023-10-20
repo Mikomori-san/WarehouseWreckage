@@ -1,2 +1,2 @@
 # WarehouseWreckage
-A simple UE 5.1 Wreck-It Game for studying purposes
+A simple UE 5.1 game project created for studying and learning purposes.
